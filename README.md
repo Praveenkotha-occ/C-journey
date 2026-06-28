@@ -1,2 +1,172 @@
 # C-journey
 I'm using chatgpt as my mentor for learning c without wasting time on watching random tutorials. This journey contains 10 modules which covered the core concepts of c from basic to advance, After every module i am going to create a notes on mistakes i made, new points, interview type questions for both CORE ECE and IT jobs .
+*****************************************************************************************************************************C Placement Mastery - 100 Problems
+
+Module 1: Loops & Basic Logic (1–10)
+
+Print numbers from 1 to N
+Print N to 1
+Sum of first N numbers
+Count digits in a number
+Reverse a number
+Check palindrome number
+Find factorial
+Fibonacci series
+Check prime number
+Find next prime number
+
+Extra module 1 
+
+Sum of Digits
+Product of Digits
+Largest Digit
+Smallest Digit
+GCD
+LCM
+Decimal to Binary
+
+Module 2: Arrays Basics (11–20)
+Find largest element
+Find smallest element
+Find second largest
+Find second smallest
+Sum of array
+Average of array
+Count even numbers
+Count odd numbers
+Count positive and negative numbers
+Find maximum and minimum together
+
+Module 3: Array Manipulation (21–30)
+Reverse array
+Copy one array to another
+Check whether array is sorted
+Move all zeros to the end
+Remove duplicates from sorted array
+Left rotate array by one position
+Left rotate array by K positions
+Right rotate array
+Merge two arrays
+Find missing number (1 to N)
+
+Module 4: Searching (31–40)
+Linear Search
+Binary Search
+First occurrence
+Last occurrence
+Count occurrences
+Peak element
+Search in rotated sorted array
+Find minimum in rotated array
+Square root using binary search
+Search Insert Position
+
+Module 5: Sorting (41–50)
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Sort 0s and 1s
+Sort 0s,1s,2s
+Merge two sorted arrays
+Intersection of arrays
+Union of arrays
+
+Module 6: Frequency & Hashing (51–60)
+Frequency of every element
+Majority Element
+Duplicate element
+First non-repeating element
+First repeating element
+Missing number using XOR
+Two Sum
+Pair with given sum
+Pair with given difference
+Common elements in three arrays
+
+Module 7: Strings (61–75)
+Find length of string
+Reverse string
+Palindrome string
+Count vowels
+Count consonants
+Count digits
+Count words
+Convert uppercase to lowercase
+Convert lowercase to uppercase
+Toggle case
+Remove spaces
+Remove duplicate characters
+Check anagram
+Character frequency
+Longest word in sentence
+
+Module 8: Sliding Window (76–82)
+Maximum sum of K elements
+Maximum average subarray
+First negative in every window
+Longest substring without repeating characters
+Minimum size subarray sum
+Maximum consecutive ones
+Longest subarray with sum K
+
+Module 9: Two Pointers (83–90)
+Merge sorted arrays
+Remove duplicates
+Move zeros
+Container With Most Water
+Three Sum
+Four Sum
+Trapping Rain Water
+Sort colors
+
+Module 10: Recursion (91–95)
+Factorial using recursion
+Fibonacci using recursion
+Sum of array recursively
+Reverse string recursively
+Tower of Hanoi
+Module 11: Stack & Queue (96–100)
+Stack using array
+Queue using array
+Valid Parentheses
+Next Greater Element
+Balanced Parentheses
+
+⭐ The 20 Most Important Problems
+
+If you master only these, you'll already be ahead of many placement candidates:
+
+Largest Element
+Second Largest
+Reverse Array
+Linear Search
+Binary Search
+Bubble Sort
+Selection Sort
+Insertion Sort
+Move Zeros
+Left Rotate Array
+Remove Duplicates
+Frequency of Elements
+Majority Element
+Two Sum
+Merge Sorted Arrays
+Sliding Window Maximum Sum
+Kadane's Algorithm (Maximum Subarray Sum)
+Longest Subarray with Sum K
+Reverse String
+Palindrome String
+My rule for you
+
+Don't look at the solution immediately.
+
+For each problem:
+
+Spend 30–45 minutes trying to solve it.
+If you're stuck, ask me for Hint 1 (not the full code).
+Still stuck? Ask for Hint 2.
+Only after that, ask for the complete C solution.
+
+This is how you'll build problem-solving skills instead of just collecting solutions.
